@@ -14,3 +14,4 @@ Open `index.html` in a browser. The portrait and CV are included in `assets/`.
 4. GitHub Pages will publish at `https://YOUR-GITHUB-USERNAME.github.io/`.
 
 The GitHub username determines the final URL and repository name.
+
